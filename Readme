@@ -3,4 +3,5 @@ These are some useful scripts for automating sysadmin work
 Script details:
 Exchange Online_Power
   - Script for connecting to Exchange Online
- 
+Search_Mailboxes_Last30Days
+  - Lists Exchange mailboxes used in the last 30 days using MFA
